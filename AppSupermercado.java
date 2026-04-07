@@ -1,4 +1,4 @@
-public class Main2 {
+public class AppSupermercado {
 
     public static void main (String args[]) {
 
